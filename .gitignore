@@ -1,0 +1,6 @@
+work/
+output/
+logs/
+.venv/
+.hazard_merge.lock
+__pycache__/
